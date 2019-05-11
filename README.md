@@ -1,4 +1,4 @@
-# Recursos-Información-Geográfica
+# Recursos Información Geográfica
 Recursos abiertos de Información Geográfica para la investigación
 Hace unos días Jack Dangermond, fundador de Esri, afirmaba en un artículo en la revista digital Geospatial World https://www.geospatialworld.net/article/maps-are-becoming-a-common-language-across-organizations-jack-dangermond-esri/, que «los mapas se están convirtiendo en un lenguaje común en todas las organizaciones». Aunque en el texto él se refiere principalmente a empresas, podemos hacer extensiva esta afirmación a otro tipo de organizaciones como administraciones públicas e instituciones académicas.
 
