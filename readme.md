@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="http://www.nosolosig.com/images/2019/recursos-abiertos-informacion-geografica-para-investigacion.jpg" alt="Recursos abiertos de Información Geográfica">
+  <img src="https://github.com/joseignaci/Recursos-Informacion-Geografica/blob/master/recursos_abiertos_tig_en_github.jpg" alt="Recursos abiertos de Información Geográfica">
 </p>
 
 ## Presentación
@@ -190,6 +190,7 @@ Las **organismos oficiales de cartografía** en las autonomías españolas son:
 - [Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/) de Víctor Olaya
 - [Glosario de términos geográficos y cartográficos](https://biblioteca.ua.es/es/cartoteca/glosario-a.html)
 - [Diccionario de Geografía aplicada y profesional](https://www.uv.es/~javier/index_archivos/Diccionario_Geografia%20Aplicada.pdf)
+- [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/index.html) Aunque no está orientado a los datos espaciales, si estás interesado en aprender R echa un vistazo a este libro (inacabado) de __Carlos J. Gil Bellosta__
 - [Libros TIG](http://www.nosolosig.com/libros-geo) Afortunadamente son muchos los libros que puedes encontrar para aprender Tecnologías de Información Geográfica (TIG), un gran número de ellos gratis o con licencias CC. En esta sección de Nosolosig encontrarás muchos de ellos
 
 ### Listas de correo
