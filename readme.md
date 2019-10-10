@@ -51,7 +51,7 @@ Los recursos presentados tienen principalmente licencias libres, por ejemplo Cre
 ### España
 - [IDEE autonómicas](http://www.idee.es/web/guest/autonomico) Infraestructuras de Datos Espaciales de autonomías de España. Se pueden encontrar IDE por autonomía o por tema (hidrografía, geología, cartografía temática, etc.)
 
-Las **organismos oficiales de cartografía** en las autonomías españolas son:
+Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Instituto Cartográfico y Geológico de Cataluña](http://www.icgc.cat/es/)
 - [Instituto Cartográfico de Valencia](http://www.icv.gva.es/ca/inicio)
 - [Instituto de Estadística y Cartografía de Andalucía](http://www.juntadeandalucia.es/institutodeestadisticaycartografia)
