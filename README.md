@@ -4,7 +4,7 @@ Hace unos días Jack Dangermond, fundador de Esri, afirmaba en un artículo en l
 
 El rápido crecimiento de las Tecnologías de la Información la Comunicación TIC obliga hoy en día a que un gran número de investigaciones necesiten manejar Información Geográfica para desarrollar, presentar y publicar sus estudios en los ámbitos más diversos (medio ambiente, urbanismo, gestión de riesgos, sociología, salud, marketing…), pero los autores no siempre conocen las herramientas que están a sus disposición, al no ser la Información Geográfica su especialidad
 <p align="center">
-  <img src="http://www.nosolosig.com/images/2019/recursos-abiertos-informacion-geografica-para-investigacion.jpg" alt="Recursos abiertos de Información Geográfica">
+  <img src="https://github.com/joseignaci/Recursos-Informacion-Geografica/blob/master/recursos_abiertos_tig_en_github.jpg" alt="Recursos abiertos de Información Geográfica">
 </p>
 
 
