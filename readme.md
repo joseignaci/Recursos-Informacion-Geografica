@@ -38,7 +38,7 @@ Contribuciones, correciones o comentarios son bienvenidos
   - [Revistas indexadas](revistas-indexadas)
 
 ## INTRODUCCIÓN
-Una primera versión de esta lista de recursos se publicó en Nosolosig [Recursos abiertos de Información Geográfica para la investigación](http://www.nosolosig.com/articulos/1061-recursos-abiertos-de-informacion-geografica-para-la-investigacion), fiel al contenido del artículo citado anteriormente. La idea de compartila en GitHub es para que sea más fácil colaborar y añadir o modificar las referencias. 
+Una primera versión de esta lista de recursos se publicó en Nosolosig [Recursos abiertos de Información Geográfica para la investigación](http://www.nosolosig.com/articulos/1061-recursos-abiertos-de-informacion-geografica-para-la-investigacion), fiel al contenido del artículo citado anteriormente. El objetivo de compartir estos recursos en GitHub es facilitar el mantenimiento, actualización y modificaciones de los recursos entre todos. 
 
 Los recursos presentados tienen principalmente licencias libres, por ejemplo Creative Commons, aunque en algunos casos he incluido software o servicios privados pero gratuitos.
 
