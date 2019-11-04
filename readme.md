@@ -207,6 +207,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Revista CT/Catastro](http://www.catastro.meh.es/esp/ct_catastro.asp) (España)
 - [Revista Mapping](http://mappinginteractivo.es/)
 - [Revista de la Asociación Española de Teledetección](http://www.aet.org.es/)
+- [Investigaciones Geográficas](https://www.investigacionesgeograficas.com/) editada por el Instituto Interuniversitario de Geografía de la Universidad de Alicante (España)
 
 ### Blogs
 - [Blog y páginas Web sobre Tecnologías de la Información Geográfica](http://www.nosolosig.com/articulos/192-blog-y-paginas-web-sobre-tecnologias-de-la-informacion-geografica) Son muchos los blogs que puedes encontrar en Internet sobre TIG; en este enlace encontrarás una lista con casi todos ellos (última actualización en 2017), muchos para enumerar aquí.
