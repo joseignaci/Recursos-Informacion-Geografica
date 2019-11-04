@@ -146,7 +146,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 ### Metadatos
 - [Geonetwork Metadata](https://geonetwork-opensource.org/)
 - [pycsw](https://pycsw.org/)
-- [Geoportal de Metadatos del IGN](http://metadatos.ign.es/herramientas) Aquí encontrarás varias herramientas para la creación, edición y validción de metadatos
+- [Geoportal de Metadatos del IGN](http://metadatos.ign.es/herramientas) Aquí encontrarás varias herramientas para la creación, edición y validación de metadatos
 - [CatMDEdit](http://catmdedit.sourceforge.net/)
 
 ### Bases de datos, librerias
