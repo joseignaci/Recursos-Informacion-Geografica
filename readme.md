@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/joseignaci/Recursos-Informacion-Geografica/blob/master/recursos_abiertos_tig_en_github.jpg" alt="Recursos abiertos de Información Geográfica">
+  <img src="http://www.nosolosig.com/images/2019/recursos_abiertos_tig_en_github.jpg" alt="Recursos abiertos de Información Geográfica">
+ </p>
 </p>
 
 ## Presentación
