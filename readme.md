@@ -27,7 +27,7 @@ Contribuciones, correciones o comentarios son bienvenidos
 - [Cartotecas](#cartotecas)
 - [Información Geográfica Voluntaria](#información_geográfica_voluntaria)
 - [Software](#software)
-  - [Software de Sistemas de Información Geográfica -SIG-](software_sistemas_informacion_geografica_sig)
+  - [Software de Sistemas de Información Geográfica -SIG-](sig)
   - [Teledetección](teledetección)
   - [LIDAR y fotogrametría](lidar_y_fotogrametría)
   - [Metadatos](metadatos)
@@ -113,7 +113,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Crowdmap](https://crowdmap.com/welcome)
 - [Geocaching](http://www.geocachingspain.es/)
 
-## SOFTWARE
+## SOFTWARE <a name="sig"></a>
 ### Sistemas de Información Geográfica
 - [gvSIG](http://www.gvsig.org)
 - [QGIS](http://www.qgis.org/)
