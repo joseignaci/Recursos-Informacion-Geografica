@@ -163,7 +163,8 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Tableau Public](https://public.tableau.com/en-us/s/) Software gratuito para crear visualizacones interactivas de datos. Permite datos espaciales
 - [Power BI](https://powerbi.microsoft.com/es-es/) Visualización de datos con esta espectacular herramienta de Microsoft
 - [Google Data Studio](https://datastudio.withgoogle.com/)
-- [dj3](https://d3js.org/) Biblioteca JavaScript para crear gráficos dinámicos e interactivos a partir de datos
+- [dj3](https://d3js.org/) Biblioteca JavaScript para crear gráficos dinámicos e interactivos a partir de dat(os
+- [Flourish](https://flourish.studio) Plataforma de visualización de datos para crear gráficos y mapas online y poner en una página web. Muy utilizada por periodistas
 
 ### Otros
 - [Geoserver](http://geoserver.org/)
