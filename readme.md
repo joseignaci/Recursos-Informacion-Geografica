@@ -25,18 +25,18 @@ Contribuciones, correciones o comentarios son bienvenidos
 - [Cartografía nacional](#cartografía-nacional)
 - [Cartografía Transnacional](#cartografía-transnacional)
 - [Cartotecas](#cartotecas)
-- [Información Geográfica Voluntaria](#información_geográfica_voluntaria)
+- [Información Geográfica Voluntaria](#información-geográfica-voluntaria)
 - [Software](#software)
   - [Software de Sistemas de Información Geográfica -SIG-](#sig)
   - [Teledetección](#teledetección)
-  - [LIDAR y fotogrametría](#lidar_y_fotogrametría)
+  - [LIDAR y fotogrametría](#lidar-y-fotogrametría)
   - [Metadatos](#metadatos)
   - [Bases de datos, ETL, otros](#bases_de_datos_etl_otros)
-- [Creación y publicación de cartografía (GIS Cloud)](#creación_y_publicación_de_cartografía)
-- [Formación y aprendizaje](#formacion_y_aprendizaje)
+- [Creación y publicación de cartografía (GIS Cloud)](#creación-y-publicación-de-cartografía)
+- [Formación y aprendizaje](#formacion-y-aprendizaje)
   - [Libros](#libros)
-  - [Listas, foros](#listas_de_correos)
-  - [Revistas indexadas](#revistas_indexadas)
+  - [Listas, foros](#listas-de-correos)
+  - [Revistas indexadas](#revistas-indexadas)
   - [Blogs](#blogs)
 
 ## INTRODUCCIÓN
@@ -114,7 +114,8 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Crowdmap](https://crowdmap.com/welcome)
 - [Geocaching](http://www.geocachingspain.es/)
 
-## SOFTWARE <a name="sig"></a>
+## SOFTWARE 
+<a name="sig"></a> 
 ### Sistemas de Información Geográfica
 - [gvSIG](http://www.gvsig.org)
 - [QGIS](http://www.qgis.org/)
