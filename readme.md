@@ -24,16 +24,16 @@ Contribuciones, correciones o comentarios son bienvenidos
 - [Cartografía regional](#cartografía-regional)
 - [Cartografía nacional](#cartografía-nacional)
 - [Cartografía Transnacional](#cartografía-transnacional)
-- [Cartotecas en universidades, centros públicos y privados](#cartotecas_en_universidades_,_centros_públicos_y_privados)
+- [Cartotecas](#cartotecas)
 - [Información Geográfica Voluntaria](#información_geográfica_voluntaria)
 - [Software](#software)
   - [Software de Sistemas de Información Geográfica -SIG-](software_sistemas_informacion_geografica_sig)
   - [Teledetección](teledetección)
-  - [LIDAR, fotogrametría](lidar-fotogrametría)
+  - [LIDAR y fotogrametría](lidar_y_fotogrametría)
   - [Metadatos](metadatos)
   - [Bases de datos, ETL, otros](bases_de_datos_etl_otros)
-- [Creación y publicación de cartografía](#creación_y_publicación_de_cartografía_(_gis_cloud_))
-- [Formación, aprendizaje](#formacion_,_aprendizaje)
+- [Creación y publicación de cartografía (GIS Cloud](#creación_y_publicación_de_cartografía)
+- [Formación, aprendizaje](#formacion_y_aprendizaje)
   - [Libros](libros)
   - [Listas, foros, blogs](#listas_,_foros_,_blogs)
   - [Revistas indexadas](revistas_indexadas)
@@ -87,7 +87,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Geosur](https://www.geosur.info) Su objetivo es promover el uso y diseminación de la información geográfica en América Latina y el impulso de las Infraestructuras de Datos Espaciales
 
 
-## CARTOTECAS EN UNIVERSIDADES, CENTROS PÚBLICOS Y PRIVADOS
+## CARTOTECAS
 - [OldMapsOnline](http://www.oldmapsonline.org/)
 - [David Rumsey Map Collection](http://www.davidrumsey.com/)
 - [Ibercarto](https://sge.org/ibercarto/) o Grupo de Trabajo de Cartotecas Públicas Hispano-Lusas; aquí podrás encontrar un directorio de cartotecas de España y Portugal. Muy interesante
@@ -172,7 +172,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Descarga de software del IECA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/otrosServidores/software/index.htm)
 
 
-## CREACIÓN Y PUBLICACIÓN DE CARTOGRAFÍA (GIS CLOUD)
+## CREACIÓN Y PUBLICACIÓN DE CARTOGRAFÍA
 - [urbiThings](https://urbithings.com/)
 - [QGISCloud](http://qgiscloud.com/)
 - [InstaMaps](https://www.instamaps.cat/)
@@ -185,7 +185,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Google My maps](https://www.google.com/intl/es_ES/maps/about/mymaps/)
 - [Deegree](https://www.deegree.org/)
 
-## FORMACIÓN, APRENDIZAJE
+## FORMACIÓN y APRENDIZAJE
 
 ### Glosarios y libros
 
