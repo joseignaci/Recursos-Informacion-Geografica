@@ -24,18 +24,18 @@ Contribuciones, correciones o comentarios son bienvenidos
 - [Cartografía regional](#cartografía-regional)
 - [Cartografía nacional](#cartografía-nacional)
 - [Cartografía Transnacional](#cartografía-transnacional)
-- [Cartotecas en universidades, centros públicos y privados](#cartotecas_en_universidades_centros_públicos_y_privados)
-- [Información Geográfica Voluntaria](#información-geográfica-voluntaria)
+- [Cartotecas en universidades, centros públicos y privados](#cartotecas_en_universidades_,_centros_públicos_y_privados)
+- [Información Geográfica Voluntaria](#información_geográfica_voluntaria)
 - [Software](#software)
   - [Software de Sistemas de Información Geográfica -SIG-](software_sistemas_informacion_geografica_sig)
   - [Teledetección](teledetección)
   - [LIDAR, fotogrametría](lidar-fotogrametría)
   - [Metadatos](metadatos)
   - [Bases de datos, ETL, otros](bases_de_datos_etl_otros)
-- [Creación de cartografía](#creación_de_cartografía_gis_cloud)
-- [Formación, aprendizaje](#formacion_aprendizaje)
+- [Creación y publicación de cartografía](#creación_y_publicación_de_cartografía_(_gis_cloud_))
+- [Formación, aprendizaje](#formacion_,_aprendizaje)
   - [Libros](libros)
-  - [Listas, foros, blogs](#listas_foros_blogs)
+  - [Listas, foros, blogs](#listas_,_foros_,_blogs)
   - [Revistas indexadas](revistas_indexadas)
 
 ## INTRODUCCIÓN
@@ -172,7 +172,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Descarga de software del IECA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/otrosServidores/software/index.htm)
 
 
-## CREACIÓN/PUBLICACIÓN DE CARTOGRAFÍA (GIS CLOUD)
+## CREACIÓN Y PUBLICACIÓN DE CARTOGRAFÍA (GIS CLOUD)
 - [urbiThings](https://urbithings.com/)
 - [QGISCloud](http://qgiscloud.com/)
 - [InstaMaps](https://www.instamaps.cat/)
