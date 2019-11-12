@@ -19,7 +19,7 @@ Contribuciones, correciones o comentarios son bienvenidos
 
 
 ## Estructura
-- [Introducción](#introduccion)
+- [Introducción](#introducción)
 - [Cartografía local](#cartografia-local)
 - [Cartografía regional](#cartografia-regional)
 - [Cartografía nacional](#cartografia-nacional)
