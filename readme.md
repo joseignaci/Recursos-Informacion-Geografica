@@ -31,11 +31,11 @@ Contribuciones, correciones o comentarios son bienvenidos
   - [Teledetección](#teledetección)
   - [LIDAR y fotogrametría](#fotogrametria)
   - [Metadatos](#metadatos)
-  - [Bases de datos, ETL, otros](#bases_de_datos_etl_otros)
+  - [Bases de datos, ETL, otros](#bases-de-datos)
 - [Creación y publicación de cartografía (GIS Cloud)](#creación-y-publicación-de-cartografía)
-- [Formación y aprendizaje](#formacion-y-aprendizaje)
+- [Formación y aprendizaje](#formacion)
   - [Libros](#libros)
-  - [Listas, foros](#listas-de-correos)
+  - [Listas, foros](#listas)
   - [Revistas indexadas](#revistas-indexadas)
   - [Blogs](#blogs)
 
@@ -151,7 +151,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [pycsw](https://pycsw.org/)
 - [Geoportal de Metadatos del IGN](http://metadatos.ign.es/herramientas) Aquí encontrarás varias herramientas para la creación, edición y validación de metadatos
 - [CatMDEdit](http://catmdedit.sourceforge.net/)
-
+<a name="bases-de-datos"></a>
 ### Bases de datos, librerias
 - [OSGeo](https://www.osgeo.org/) La *Open Source Geospatial Foundation* acoge un montón de software (algunos ya citados en esta lista); **imprescindible**
 - [libLAS](https://liblas.org/)
@@ -186,9 +186,9 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Worldmap](http://worldmap.harvard.edu/)
 - [Google My maps](https://www.google.com/intl/es_ES/maps/about/mymaps/)
 - [Deegree](https://www.deegree.org/)
-
-## FORMACIÓN y APRENDIZAJE
-
+<a name="formacion"></a>
+## FORMACIÓN, APRENDIZAJE
+<a name="libros"></a>
 ### Glosarios y libros
 
 - [Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/) de Víctor Olaya
@@ -196,8 +196,8 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 - [Diccionario de Geografía aplicada y profesional](https://www.uv.es/~javier/index_archivos/Diccionario_Geografia%20Aplicada.pdf)
 - [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/index.html) Aunque no está orientado a los datos espaciales, si estás interesado en aprender R echa un vistazo a este libro (inacabado) de __Carlos J. Gil Bellosta__
 - [Libros TIG](http://www.nosolosig.com/libros-geo) Afortunadamente son muchos los libros que puedes encontrar para aprender Tecnologías de Información Geográfica (TIG), un gran número de ellos gratis o con licencias CC. En esta sección de Nosolosig encontrarás muchos de ellos
-
-### Listas de correo
+<a name="listas"></a>
+### Listas de correo, foros
 * Las listas de correo de RedIris son todo un clásico y aunque ya no tienen el mismo volumen de actividad que hace unos años, todavía son una excelente fuente de información y consulta. Aquí van algunas de las más importantes, pero encontrarás muchas otras
   - [Lista SIG de RedIris](http://www.rediris.es/list/info/sig.html) Lista de Sistemas de información Geográfica y Cartográfica
   - [Lista IDE de RedIris](http://www.rediris.es/list/info/idee.html) Lista de Infraestructuras de Datos Espaciales
