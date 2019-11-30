@@ -192,6 +192,7 @@ Las **institutos oficiales de cartografía** en las autonomías españolas son:
 ### Glosarios y libros
 
 - [Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/) de Víctor Olaya
+- [Glosario multilingüe de términos técnicos en el campo de la Información Geográfica ISO/TC 211](https://github.com/ISO-TC211/TMG)
 - [Glosario de términos geográficos y cartográficos](https://biblioteca.ua.es/es/cartoteca/glosario-a.html)
 - [Diccionario de Geografía aplicada y profesional](https://www.uv.es/~javier/index_archivos/Diccionario_Geografia%20Aplicada.pdf)
 - [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/index.html) Aunque no está orientado a los datos espaciales, si estás interesado en aprender R echa un vistazo a este libro (inacabado) de __Carlos J. Gil Bellosta__
